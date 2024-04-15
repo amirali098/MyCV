@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fca9a354-2b00-400e-93f8-85debe340cf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media2/image02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCV/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyCV/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCV/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyCV/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statics/js/jquery.isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/Statics/js/jquery.isotope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statics/js/modernizr.custom.26633.js" beforeDir="false" afterPath="$PROJECT_DIR$/Statics/js/modernizr.custom.26633.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Amirali/Desktop/Mycv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amirali\Desktop\Mycv\media" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Mycv" type="Python.DjangoServer" factoryName="Django server">
       <module name="Mycv" />
@@ -75,6 +84,8 @@
       <updated>1712955538212</updated>
       <workItem from="1712955540449" duration="892000" />
       <workItem from="1712956461882" duration="831000" />
+      <workItem from="1713037073533" duration="648000" />
+      <workItem from="1713199577170" duration="1423000" />
     </task>
     <servers />
   </component>
